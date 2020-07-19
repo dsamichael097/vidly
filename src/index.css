@@ -1,0 +1,36 @@
+body {
+  /*padding: 20px 0 0 0;*/
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.cursor-style {
+  cursor: pointer;
+}
+
+.heart-color {
+  color: red;
+}
+
+.navbar {
+  margin-bottom: 30px;
+}
+
+.newMovie {
+  margin-bottom: 15px;
+}
+
+.loading {
+  position: fixed;
+  right: 50%;
+  bottom: 50%;
+}
